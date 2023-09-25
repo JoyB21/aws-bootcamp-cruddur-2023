@@ -13,7 +13,7 @@
   + Confirmed:  env | grep AWS
 ## Lucid Charts
 **Conceptual Diagram**
-https://lucid.app/lucidchart/1476a09d-894d-44a7-81b7-dab4830eddc5/edit?invitationId=inv_4e9c544e-c29b-4b02-91fd-15ea7dfdcb49![image](https://github.com/JoyB21/aws-bootcamp-cruddur-2023/assets/66560630/5e46130c-9032-4de7-9d7b-09a41c94f301)
+(https://lucid.app/lucidchart/1476a09d-894d-44a7-81b7-dab4830eddc5/edit?invitationId=inv_4e9c544e-c29b-4b02-91fd-15ea7dfdcb49) ![image](https://github.com/JoyB21/aws-bootcamp-cruddur-2023/assets/66560630/5e46130c-9032-4de7-9d7b-09a41c94f301)
 ![image](https://github.com/JoyB21/aws-bootcamp-cruddur-2023/assets/66560630/9dabb6a5-db74-4bc2-977e-1ff2a7c8a3f9)
 
 **Logical Diagram**
