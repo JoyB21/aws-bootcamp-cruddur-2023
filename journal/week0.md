@@ -1,5 +1,5 @@
 # Week 0 — Billing and Architecture
-AWS Setup and CloudShell
+## AWS Setup and CloudShell
 + Created AWS Root Account with MFA
 + Account 231662493604
 + Setup Up Budget and Alert
@@ -11,4 +11,7 @@ AWS Setup and CloudShell
   + Link to Gitpod
   + Export AWS KEY ID, SECRET KEY and DEFAULT REGION
   + Confirmed:  env | grep AWS
- 
+## Lucid Charts
+Conceptual Diagram
+https://lucid.app/lucidchart/1476a09d-894d-44a7-81b7-dab4830eddc5/edit?invitationId=inv_4e9c544e-c29b-4b02-91fd-15ea7dfdcb49![Uploading image.png…]()
+
