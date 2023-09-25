@@ -15,4 +15,5 @@
 Conceptual Diagram
 https://lucid.app/lucidchart/1476a09d-894d-44a7-81b7-dab4830eddc5/edit?invitationId=inv_4e9c544e-c29b-4b02-91fd-15ea7dfdcb49![image](https://github.com/JoyB21/aws-bootcamp-cruddur-2023/assets/66560630/5e46130c-9032-4de7-9d7b-09a41c94f301)
 ![Uploading image.png…]()
+Logical Diagram
 
